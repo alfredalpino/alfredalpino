@@ -1,62 +1,46 @@
-<!-- Profile Header -->
-<h1 align="left">Alfred Alpino</h1>
+<!-- Header -->
 
+<h1 align="left">Alfred Alpino</h1>
 <p align="left">
-  Quant • DeFi • Data • Money  
+  quant • defi • data • money
 </p>
 
 ---
 
-## Now
+## focus
 
-- Researching DeFi, AGI, privacy and proof‑of‑humanity protocols  
-- Building automated trading systems and on‑chain analytics dashboards  
-- Exploring AI agents + LLM tooling for research and execution  
-
----
-
-## What I Do
-
-- **Quant & Trading** – market making, stat arb, funding rate arb, backtesting  
-- **DeFi Research** – tokenomics, MEV, cross‑chain flows, smart money tracking  
-- **Infra & Data** – Dune dashboards, on‑chain data pipelines, cross‑chain analytics  
-- **AI x Crypto** – LangChain, Claude API, vector DBs for research and execution agents  
+- automated trading systems on centralized + on‑chain venues  
+- defi research around liquidity, incentives, and mev  
+- ai agents for research, execution, and monitoring  
 
 ---
 
-## Selected Projects
+## currently building
 
-- **AlgoHL** – automated trading bot for Hyperliquid with EMA‑based execution and risk controls  
-- **Market‑making bots** – CCXT + HyperliquidSDK systems that scaled to high volume with low burn  
-- **Nexus Portal** – unified Web3 research panel aggregating multiple analytics surfaces  
-- **AI Agent Knowledge Repo** – curated directory of AI agents, organized for fast discovery  
-
----
-
-## Experience
-
-- **Research Analyst @ 3Poch Labs (Remote, UAE)**  
-  DeFi + AI protocol research, tokenomics, insider activity, and founder‑level dashboards.  
-
-- **Analyst, Founder’s Office @ Radarblock (Remote, UAE)**  
-  Ops, client deliverable tracking, and partner‑facing research material.  
-
-- **Virtual Customer Support Associate @ Amazon India (Remote)**  
-  Prime support, performance‑driven environment, multiple all‑rounder awards.  
+- hyperliquid + ccxt market‑making bots with risk‑aware execution  
+- dashboards for cross‑chain flows and token liquidity  
+- an internal knowledge repo for agents and research workflows  
 
 ---
 
-## Stack
+## ideas in progress
 
-- **Languages & Tools** – Python (pandas, NumPy), SQL, CCXT, HangukQuant, HyperliquidSDK  
-- **Chains & Protocols** – Ethereum, Arbitrum, Solana, Uniswap V3, Aave, GMX, Hyperliquid  
-- **Analytics** – Dune, Nansen, Arkham, Coinalyze  
+- intent‑driven trading interfaces instead of raw order forms  
+- on‑chain “research graph” linking addresses, protocols, and theses  
+- small, composable agents that can be wired into trading stacks  
 
 ---
 
-## Elsewhere
+## stack
 
-- GitHub: **@alfredalpino**  
-- X: **@alfredalpino**  
-- Medium: **@alfredalpino**  
-- Email: *ubaid.in.2003@gmail.com*
+- python, sql, pandas / numpy  
+- hyperliquid sdk, ccxt, hangukquant  
+- dune, nansen, arkham, vector dbs, langchain  
+
+---
+
+## minimal changelog
+
+- 2025 – refining on‑chain research and agent infra  
+- 2024 – first production market‑making systems and defi dashboards  
+- 2023 – fell down the crypto + quant rabbit hole and stayed there  
