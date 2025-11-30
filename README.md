@@ -1,9 +1,6 @@
 <!-- Header -->
 
 <h1 align="left">Alfred Alpino</h1>
-<p align="left">
-  quant • defi • data • money
-</p>
 
 ---
 
