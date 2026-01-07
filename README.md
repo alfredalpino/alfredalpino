@@ -1,43 +1,58 @@
-<!-- Header -->
-
-<h1 align="left">Alfred Alpino</h1>
-
----
-
-## focus
-
-- automated trading systems on centralized + on‑chain venues  
-- defi research around liquidity, incentives, and mev  
-- ai agents for research, execution, and monitoring  
+<!-- Header with refined styling -->
+<div align="center">
+  <h1>Alfred Alpino</h1>
+  <img src="https://img.shields.io/badge/India-🇮🇳-FF6B35?style=flat&logo=india&logoColor=white" alt="India" />
+  <a href="https://alubaid.xyz"><img src="https://img.shields.io/badge/Portfolio-alubaid.xyz-0D1117?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://twitter.com/alfredalpino"><img src="https://img.shields.io/badge/Twitter-@alfredalpino-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</div>
 
 ---
 
-## currently building
+## Focus
 
-- hyperliquid + ccxt market‑making bots with risk‑aware execution  
-- dashboards for cross‑chain flows and token liquidity  
-- an internal knowledge repo for agents and research workflows  
-
----
-
-## ideas in progress
-
-- intent‑driven trading interfaces instead of raw order forms  
-- on‑chain “research graph” linking addresses, protocols, and theses  
-- small, composable agents that can be wired into trading stacks  
+- Automated trading systems on centralized and on-chain venues
+- DeFi research: liquidity, incentives, MEV
+- AI agents for research, execution, monitoring
 
 ---
 
-## stack
+## Currently Building
 
-- python, sql, pandas / numpy  
-- hyperliquid sdk, ccxt, hangukquant  
-- dune, nansen, arkham, vector dbs, langchain  
+- Hyperliquid + CCXT market-making bots (risk-aware execution)
+- Dashboards for cross-chain flows and token liquidity [memory:16]
+- Internal knowledge repo for agents and research workflows
 
 ---
 
-## minimal changelog
+## Portfolio Highlights
 
-- 2025 – refining on‑chain research and agent infra  
-- 2024 – first production market‑making systems and defi dashboards  
-- 2023 – fell down the crypto + quant rabbit hole and stayed there  
+| Project | Description | Tech |
+|---------|-------------|------|
+| Price Competition & Arbitrage Index | Real-time analysis of Zepto/Instamart/Blinkit pricing (ETL pipeline) [memory:20] | Python, SQL, Pandas, Playwright |
+| Customer Segmentation EDA | RFM analysis on Instacart data (9 visualizations) [conversation_history:30] | Pandas/NumPy, Jupyter |
+| Full-Stack ETL Pipeline | E-commerce data processing (extract → transform → load) [conversation_history:30] | Python, PostgreSQL |
+| Trading Dashboards | Grafana/Metabase monitoring with alerts [memory:4] | SQL, Grafana |
+
+See [repos](https://github.com/alfredalpino?tab=repositories) for code.
+
+---
+
+## Stack
+
+- **Core**: Python, SQL, Pandas/NumPy
+- **Trading**: Hyperliquid SDK, CCXT, HangukQuant
+- **Analytics**: Dune, Nansen, Arkham, Vector DBs, LangChain
+
+---
+
+## Changelog
+
+- **2025**: Refining on-chain research and agent infra
+- **2024**: Production market-making systems + DeFi dashboards
+- **2023**: Entered crypto/quant trading rabbit hole
+
+---
+
+<div align="center">
+  <sub>Actively seeking opportunities. Open to collaborations on quant/DeFi projects. ✌🏻</sub>
+</div>
