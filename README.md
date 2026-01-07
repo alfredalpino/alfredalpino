@@ -19,23 +19,11 @@
 ## Currently Building
 
 - Hyperliquid + CCXT market-making bots (risk-aware execution)
-- Dashboards for cross-chain flows and token liquidity [memory:16]
+- Dashboards for cross-chain flows and token liquidity
 - Internal knowledge repo for agents and research workflows
 
 ---
 
-## Portfolio Highlights
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| Price Competition & Arbitrage Index | Real-time analysis of Zepto/Instamart/Blinkit pricing (ETL pipeline) [memory:20] | Python, SQL, Pandas, Playwright |
-| Customer Segmentation EDA | RFM analysis on Instacart data (9 visualizations) [conversation_history:30] | Pandas/NumPy, Jupyter |
-| Full-Stack ETL Pipeline | E-commerce data processing (extract → transform → load) [conversation_history:30] | Python, PostgreSQL |
-| Trading Dashboards | Grafana/Metabase monitoring with alerts [memory:4] | SQL, Grafana |
-
-See [repos](https://github.com/alfredalpino?tab=repositories) for code.
-
----
 
 ## Stack
 
