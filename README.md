@@ -1,6 +1,11 @@
 <!-- Header with refined styling -->
 <div align="center">
-  <h1>Alfred Alpino</h1>
+  <h1>
+  <a href="https://alubaid.xyz" target="_blank" style="text-decoration: none; color: inherit;">
+    Alfred Alpino
+  </a>
+</h1>
+
   <img src="https://img.shields.io/badge/India-🇮🇳-FF6B35?style=flat&logo=india&logoColor=white" alt="India" />
   <a href="https://alubaid.xyz"><img src="https://img.shields.io/badge/Portfolio-alubaid.xyz-0D1117?style=flat&logo=github&logoColor=white" alt="Portfolio" /></a>
   <a href="https://twitter.com/alfredalpino"><img src="https://img.shields.io/badge/Twitter-@alfredalpino-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
