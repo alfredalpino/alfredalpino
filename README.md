@@ -78,15 +78,15 @@ Browser-based 28-week Network Engineering Academy with a graded L2/L3 simulator 
 
 **Demonstrates:** curriculum design · protocol simulation · practical lab grading · product engineering applied to networking education
 
-### [OPSENO](https://github.com/alfredalpino/Opseno) · [opseno.com](https://www.opseno.com/)
+### [OPSENO](https://www.opseno.com/)
 
-Hospitality / business operations platform (PMS, POS, F&B/KOT, inventory, CRM, HR/payroll, multi-property). Dockerized stack with CI and real operational modules.
+Hospitality / business operations platform (PMS, POS, F&B/KOT, inventory, CRM, HR/payroll, multi-property). Dockerized stack with CI and real operational modules. Source is private; public product at opseno.com.
 
 **Demonstrates:** end-to-end systems design · secure backend integrations · Docker / Postgres operations · shipping production software (not demos)
 
-### [Torpedo Web](https://github.com/alfredalpino/Torpedo) · [torpedoweb.org](https://www.torpedoweb.org/)
+### [Torpedo Web](https://www.torpedoweb.org/)
 
-Technical product engineering company site and delivery stack — web applications, digital infrastructure, automation, and secure integrations.
+Technical product engineering company — web applications, digital infrastructure, automation, and secure integrations. Company site is public; delivery repos are private.
 
 **Demonstrates:** modern web architecture · auth & API patterns · ownership of client-facing systems
 
