@@ -66,17 +66,11 @@ Python library for unified OHLCV market data across crypto, forex, and equities:
 
 [GitHub](https://github.com/alfredalpino/Candlecraft) · [PyPI](https://pypi.org/project/candlecraft/)
 
-### [JobHunter](https://github.com/alfredalpino/JobHunter)
-
-Next.js application for resume-aware job filtering and orchestration: local eligibility profiles, fresh listings, no auto-apply.
-
-`TypeScript` `Next.js` `PostgreSQL`
-
-[GitHub](https://github.com/alfredalpino/JobHunter)
-
 ### Client delivery
 
-Production sites shipped for hospitality and retail brands, including [Ananta by the Hill](https://www.anantabythehill.com/), [Nile & Naples](https://nileandnaples.com/), and Frontier Bakery.
+Production sites shipped for hospitality, F&B, and agriculture brands.
+
+[anantabythehill.com](https://anantabythehill.com) · [tathastufarm.com](https://tathastufarm.com) · [newfrontierbakery.com](https://newfrontierbakery.com) · [nileandnaples.com](https://nileandnaples.com)
 
 `Next.js` `TypeScript` `PostgreSQL`
 
