@@ -4,7 +4,7 @@
 
 ### Software Engineer · Full-Stack Developer · SaaS Builder
 
-I build and ship production web applications, SaaS products, and business systems — from APIs and databases to deployment and iteration.
+I build and ship production web applications, SaaS products, and business systems, from APIs and databases to deployment and iteration.
 
 [Website](https://alubaid.xyz) · [LinkedIn](https://www.linkedin.com/in/alfredalpino) · [Email](mailto:hi@alubaid.xyz) · [Torpedo Web](https://www.torpedoweb.org)
 
@@ -36,7 +36,7 @@ I build and ship production web applications, SaaS products, and business system
 
 **Engineering** · auth · RBAC · API integrations · SaaS architecture · testing · debugging · shipping
 
-**Also** · Networking · Linux systems · security basics · automation — supporting depth from prior infrastructure work
+**Also** · Networking · Linux systems · security basics · automation (supporting depth from prior infrastructure work)
 
 ---
 
@@ -44,11 +44,11 @@ I build and ship production web applications, SaaS products, and business system
 
 ### [OPSENO](https://www.opseno.com/)
 
-End-to-end business operations platform for hospitality and retail — PMS, front desk, POS / GST billing, F&B, inventory, CRM, HR / payroll, and multi-property workflows in one system.
+End-to-end business operations platform for hospitality and retail: PMS, front desk, POS / GST billing, F&B, inventory, CRM, HR / payroll, and multi-property workflows in one system.
 
 `TypeScript` `Next.js` `PostgreSQL` `Docker` `CI`
 
-Production system — source private · [Live product](https://www.opseno.com/)
+Production system (source private) · [Live product](https://www.opseno.com/)
 
 ### [Torpedo Web](https://www.torpedoweb.org/)
 
@@ -60,7 +60,7 @@ Product engineering company building web applications, backend integrations, and
 
 ### [Candlecraft](https://github.com/alfredalpino/Candlecraft)
 
-Python library for unified OHLCV market data across crypto, forex, and equities — provider abstraction, typed candles, indicators, CLI, tests, and PyPI packaging.
+Python library for unified OHLCV market data across crypto, forex, and equities: provider abstraction, typed candles, indicators, CLI, tests, and PyPI packaging.
 
 `Python` `API design` `PyPI` `CI`
 
@@ -68,7 +68,7 @@ Python library for unified OHLCV market data across crypto, forex, and equities 
 
 ### [JobHunter](https://github.com/alfredalpino/JobHunter)
 
-Next.js application for resume-aware job filtering and orchestration — local eligibility profiles, fresh listings, no auto-apply.
+Next.js application for resume-aware job filtering and orchestration: local eligibility profiles, fresh listings, no auto-apply.
 
 `TypeScript` `Next.js` `PostgreSQL`
 
@@ -80,7 +80,7 @@ Production sites shipped for hospitality and retail brands, including [Ananta by
 
 `Next.js` `TypeScript` `PostgreSQL`
 
-Client projects — source private
+Client projects (source private)
 
 ---
 
